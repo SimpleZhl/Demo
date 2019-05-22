@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = D:/component/Demo/app
+[submodule "lib_base"]
+	path = lib_base
+	url = D:/component/Demo/lib_base
+[submodule "lib_pay_sdk"]
+	path = lib_pay_sdk
+	url = D:/component/Demo/lib_pay_sdk

@@ -1,0 +1,1 @@
+include ':app', ':lib_base', ':lib_db', ':lib_pay_sdk', ':lib_http', ':module_login', ':module_mine'
